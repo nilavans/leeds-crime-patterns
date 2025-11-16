@@ -56,3 +56,10 @@ This project is built as a single, reproducible pipeline.
 ### Execution
 
 Run the main analysis script from your terminal or execute the cells in the Jupyter Notebook
+
+
+### Contributors
+Nilavan Sritharan
+Asjad Moiz Khan
+Krithik Sharan Suresh Alagianayagi
+Zhenny Marifatul Hasna
