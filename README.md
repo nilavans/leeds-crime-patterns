@@ -59,7 +59,10 @@ Run the main analysis script from your terminal or execute the cells in the Jupy
 
 
 ### Contributors
-Nilavan Sritharan
-Asjad Moiz Khan
-Krithik Sharan Suresh Alagianayagi
-Zhenny Marifatul Hasna
+| Name                           | Student ID  | Email                  |
+|--------------------------------|-------------|-------------------------|
+| Nilavan Sritharan              | 201997034   | shvj0061@leeds.ac.uk   |
+| Asjad Moiz Khan                | 202023700   | gfqs0308@leeds.ac.uk   |
+| Krithik Sharan Suresh Alagianayagi | 202000567 | mxnp0398@leeds.ac.uk   |
+| Zhenny Marifatul Husna         | 201859055   | dpvq0990@leeds.ac.uk   |
+
